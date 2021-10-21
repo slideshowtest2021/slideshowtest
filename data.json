@@ -1,0 +1,28 @@
+{
+    "slides": [
+        {
+            "backgroundUrl": "./images/four.jpg",
+            "heading": "Hero Carousel Item 1",
+            "link": {
+                "title": "Hero Link 1",
+                "href": "#"
+            }
+        },
+        {
+            "backgroundUrl": "./images/five.jpg",
+            "heading": "Hero Carousel Item 2",
+            "link": {
+                "title": "Hero Link 2",
+                "href": "#"
+            }
+        },
+        {
+            "backgroundUrl": "./images/seven.jpg",
+            "heading": "Hero Carousel Item 3",
+            "link": {
+                "title": "Hero Link 3",
+                "href": "#"
+            }
+        }
+    ]
+}
